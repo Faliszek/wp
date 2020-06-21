@@ -1,20 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" project-jdk-name="Kotlin SDK" project-jdk-type="KotlinSDK">
     <output url="file://$PROJECT_DIR$/out" />
-  </component>
-  <component name="SbtLocalSettings">
-    <option name="projectSyncType">
-      <map>
-        <entry key="$PROJECT_DIR$/../../Codeheroes/CP/chatplatform-api-gateway" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Codeheroes/NM/nowe-motywacje-backend" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Scala/i-study-here-gateway" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Scala/pawel-start" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Scala/study-here" value="PREVIEW" />
-      </map>
-    </option>
-  </component>
-  <component name="ScalaSbtSettings">
-    <option name="customVMPath" />
   </component>
 </project>
